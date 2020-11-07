@@ -14,7 +14,7 @@
 * HTML & CSS
 
 ## Demo
-<img width="auto" alt="demo_coboard" src="https://user-images.githubusercontent.com/40179909/98447040-e9923580-2147-11eb-9eea-5d0b89013a1c.gif">
+<img width="900" height="400" alt="demo_coboard" src="https://user-images.githubusercontent.com/40179909/98447040-e9923580-2147-11eb-9eea-5d0b89013a1c.gif">
 
 
 ## Visit CoBoard
