@@ -1,4 +1,4 @@
-# CoBoard
+# CoBoard - Online Whiteboard for Realtime Visual Collaboration
 
 * An easy to use Real-Time Shared Whiteboard.
 * Multiple Colors for Drawing and Sketching.
